@@ -65,10 +65,10 @@ The IT Tickets Analysis Dashboard is a comprehensive and interactive Power BI re
 4.	Explore key metrics to assess performance and identify areas for improvement.
 5.	Monitor resolution efficiency using average resolution days.
 
+
+📅 Last Refresh Date:
+26-08-2025 18:01:37
+
 📷 Dashboard Preview
 <img width="1537" height="866" alt="image" src="https://github.com/user-attachments/assets/208287a2-79a9-4632-975a-48776c82e5ad" />
 
-
-
-📅 Last Refresh Date:
-26-08-2025 17:56:53
